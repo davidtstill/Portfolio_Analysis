@@ -1,6 +1,8 @@
 # Portfolio_Analysis
 
-This analysis evaluates the performance among various algorithmic, hedge, and mutual fund portfolios and compares them against the S&P 500. Afterwards, I created a second portfolio (called "My Portfolio") utilizing the historical closing prices for Qualcomm, Coke and Disney to see how this group performed against the various funds and the S&P 500. 
+This first part of the analysis evaluates the performance among various algorithmic, hedge, and mutual fund portfolios and compares them against the S&P 500. 
+
+The second part of the analysis involved creating a custom portfolio (called "My Portfolio"). This custom portfolio comprised the historical closing prices for Qualcomm, Coke and Disney. Lastly I compared the performance of "My Portfolio" against the initial group of funds to see how it stacked up. 
 
 Key findings include:
 - Algo 1, an algorithmic trading hedgefund, had the highest cumulative return and the S&P 500 had the lowest. 
